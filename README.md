@@ -1,2 +1,2 @@
 # goDimension
-PyDimension A program to view the intersections of 3d figures through a plane, written in Go.
+GoDimension A program to view the intersections of 3d figures through a plane, written in Go.
